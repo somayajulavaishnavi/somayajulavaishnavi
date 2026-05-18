@@ -1,6 +1,6 @@
 ## Hello! 🌿
 
-I am a self taught data analyst! I love to work on projects that analyze data using python and SQL. I mainly use Power BI and python (pandas,matplotlib,seaborn) to make vizualisations for my data!
+I work as a data analyst and I am self taught! I love to work on projects that analyze data using python and SQL. I mainly use Power BI and python (pandas,matplotlib,seaborn) to make vizualisations for my data!
 Some trivia about me :
 - 🌏I am based in India
 - 📖Currently, I am pursuing a masters in Data science and Engineering
