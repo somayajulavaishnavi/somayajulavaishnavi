@@ -10,3 +10,5 @@ Some trivia about me :
 ## My Skill set 🔗
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,python,figma)](https://skillicons.dev)
 
+## currently working on :
+My SQL and power BI portfolios
